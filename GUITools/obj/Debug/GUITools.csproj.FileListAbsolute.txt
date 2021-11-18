@@ -1,0 +1,6 @@
+D:\WWSI\2 rok\programowanie\projekt\GUITools\bin\Debug\GUITools.dll
+D:\WWSI\2 rok\programowanie\projekt\GUITools\bin\Debug\GUITools.pdb
+D:\WWSI\2 rok\programowanie\projekt\GUITools\obj\Debug\GUITools.csprojAssemblyReference.cache
+D:\WWSI\2 rok\programowanie\projekt\GUITools\obj\Debug\GUITools.csproj.CoreCompileInputs.cache
+D:\WWSI\2 rok\programowanie\projekt\GUITools\obj\Debug\GUITools.dll
+D:\WWSI\2 rok\programowanie\projekt\GUITools\obj\Debug\GUITools.pdb

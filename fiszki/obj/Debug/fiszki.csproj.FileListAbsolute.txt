@@ -1,0 +1,10 @@
+D:\WWSI\2 rok\programowanie\projekt\fiszki\bin\Debug\fiszki.exe.config
+D:\WWSI\2 rok\programowanie\projekt\fiszki\bin\Debug\fiszki.exe
+D:\WWSI\2 rok\programowanie\projekt\fiszki\bin\Debug\fiszki.pdb
+D:\WWSI\2 rok\programowanie\projekt\fiszki\obj\Debug\fiszki.csprojAssemblyReference.cache
+D:\WWSI\2 rok\programowanie\projekt\fiszki\obj\Debug\fiszki.csproj.CoreCompileInputs.cache
+D:\WWSI\2 rok\programowanie\projekt\fiszki\obj\Debug\fiszki.exe
+D:\WWSI\2 rok\programowanie\projekt\fiszki\obj\Debug\fiszki.pdb
+D:\WWSI\2 rok\programowanie\projekt\fiszki\bin\Debug\GUITools.dll
+D:\WWSI\2 rok\programowanie\projekt\fiszki\bin\Debug\GUITools.pdb
+D:\WWSI\2 rok\programowanie\projekt\fiszki\obj\Debug\fiszki.csproj.CopyComplete
