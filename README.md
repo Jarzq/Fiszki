@@ -1,2 +1,1 @@
-# Fiszki
-Program służący do dodawania fiszek, na których można przećwiczyć słówka w języku angielskim. Aplikacja konsolowa C#
+# Fiszki Program for adding flashcards where you can practice vocabulary in foreign language. C# console application.
